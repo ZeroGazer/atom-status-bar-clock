@@ -1,0 +1,19 @@
+{
+  "name": "atom-status-bar-clock",
+  "main": "./lib/atom-status-bar-clock",
+  "version": "1.0.0",
+  "description": "A configurable clock based on Moment.js displayed on the status bar.",
+  "keywords": [
+    "clock",
+    "time"
+  ],
+  "repository": "https://github.com/chpoon92/atom-status-bar-clock",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "moment": "^2.17.1"
+  },
+  "devDependencies": {}
+}
