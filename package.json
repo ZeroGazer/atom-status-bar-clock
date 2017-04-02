@@ -7,6 +7,13 @@
     "clock",
     "time"
   ],
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
   "repository": "https://github.com/chpoon92/atom-status-bar-clock",
   "license": "MIT",
   "engines": {
